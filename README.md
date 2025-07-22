@@ -15,7 +15,36 @@
 
 
 <p align="center">
-280 Test Station Team : <br/>
-<img src="https://i.imgur.com/ZRqYthK.png"/>
+Started with Cleaning the Data : <br/>
+<img src="https://i.imgur.com/XQy17AG.png"/>
+<br />
+<br /><p align="center">
+<p align="center">
+ <br/>
+<img src="https://i.imgur.com/kuZveXV.png"/>
+<br />
+<br /><p align="center">
+ <br/>
+<img src="https://i.imgur.com/59iZnIr.png"/>
+<br />
+<br /><p align="center">
+ <br/>
+<img src="https://i.imgur.com/KAnL13z.png"/>
+<br />
+<br /><p align="center">
+ <br/>
+<img src="https://i.imgur.com/bEzkIau.png"/>
+<br />
+<br /><p align="center">
+ <br/>
+<img src="https://i.imgur.com/938HCvs.png"/>
+<br />
+<br /><p align="center">
+ <br/>
+<img src="https://i.imgur.com/SnLl4MP.png"/>
+<br />
+<br /><p align="center">
+ <br/>
+<img src="https://i.imgur.com/GSL2gxr.png"/>
 <br />
 <br /><p align="center">
