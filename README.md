@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-*Built an end-to-end data analytics solution using Microsoft Fabric to model and visualize healthcare data, focusing on patient encounters, diagnoses, and provider performance.
+-Built an end-to-end data analytics solution using Microsoft Fabric to model and visualize healthcare data, focusing on patient encounters, diagnoses, and provider performance.
 
 Designed and implemented a star schema with a central fact table (patient visits) and multiple dimension tables (patients, providers, dates, diagnoses) to enable efficient slicing and high-performance querying.
 
